@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 4101,
+  "expoServerNgrokUrl": "https://pv-jyj.gregastley.expominimal.exp.direct",
+  "packagerNgrokUrl": "https://packager.pv-jyj.gregastley.expominimal.exp.direct",
+  "ngrokPid": 4126
 }

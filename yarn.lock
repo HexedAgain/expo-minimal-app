@@ -2641,10 +2641,10 @@ expo@^35.0.0:
     unimodules-task-manager-interface "~4.0.0"
     uuid-js "^0.7.5"
 
-expokit@35.0.3:
-  version "35.0.3"
-  resolved "https://registry.yarnpkg.com/expokit/-/expokit-35.0.3.tgz#cfb598e2d632363d8a3205d5f7acdd03eba1c9b2"
-  integrity sha512-Sjd+UJqkT5EYrQkAgxjgh/7Kphpx5TKc/OJ6rV4oDqnWLJKDJRiA3tLryIn6g8wkufBMdjjUqFYUABrQaGowdQ==
+expokit@35.0.0:
+  version "35.0.0"
+  resolved "https://registry.yarnpkg.com/expokit/-/expokit-35.0.0.tgz#5c386fa34dc5f424bc1930e403d5c3775a1cbd1c"
+  integrity sha512-DIxPHotIMX4HLgBCZ/C/IA37AHqoBsH4PWvYKX4o40ptpC3LI5i0b1prBew9pfAi3RmG/edIPQLHVSor7VPxLg==
   dependencies:
     jsc-android "^245459.0.0"
 
