@@ -7,7 +7,7 @@ echo "EXPO - Login"
 expo login -u gregastley -p $EXPO_PWD
 
 echo "EXPO - Start"
-echo start
+expo start
 
 echo "EXPO - Publish"
 expo publish --release-channel "test"
